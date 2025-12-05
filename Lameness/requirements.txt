@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+pandas
+opencv-python
+Pillow
+deeplabcut
+imageio

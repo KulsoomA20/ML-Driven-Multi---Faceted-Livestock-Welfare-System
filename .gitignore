@@ -1,0 +1,51 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large / sensitive files
+*.h5
+*.keras
+*.ckpt
+*.meta
+*.index
+
+# Data
+CSV/
+Frames/
+temp_uploads/
+sample_images/
+
+# DeepLabCut folders
+dlc-models/
+labeled-data/
+training-datasets/
+evaluation-results/
+
+# Project specific
+Lameness/CSV/
+Lameness/Frames/
+Mastitis/dataset/
+Mastitis/dataset_split/
+Mastitis/data_augmented/
+
+# Zips and exports
+*.zip
+*.tar
