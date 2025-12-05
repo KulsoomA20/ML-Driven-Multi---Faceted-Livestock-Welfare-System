@@ -28,6 +28,6 @@ Designed for **affordability, scalability, and rural farm deployment**.
 - Allows selection between Lameness & Mastitis modules
 
 ## How to Run
-pip install -r Lameness/requirements.txt
-pip install -r Mastitis/requirements.txt
-streamlit run final_dashboard.py
+pip install -r Lameness/requirements.txt</br>
+pip install -r Mastitis/requirements.txt</br>
+streamlit run final_dashboard.py</br>
